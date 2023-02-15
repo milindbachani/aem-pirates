@@ -1317,7 +1317,7 @@ Bundle-DocURL:
                         
         <artifactId>cq-wcm-taglib</artifactId>
                         
-        <version>5.7.4</version>
+        <version>5.8.2</version>
                         
         <scope>provided</scope>
                     
