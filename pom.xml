@@ -81,7 +81,7 @@
             
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
             
-    <spa.project.core.version>1.3.12</spa.project.core.version>
+    <spa.project.core.version>1.3.16</spa.project.core.version>
             
     <componentGroupName>AEM Pirates</componentGroupName>
         
