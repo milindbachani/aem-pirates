@@ -16,7 +16,7 @@
     "@adobe/aem-core-components-react-base": "^1.1.8",
     "@adobe/aem-core-components-react-spa": "^1.2.0",
     "custom-event-polyfill": "^1.0.7",
-    "sanitize-html": "^2.3.3",
+    "sanitize-html": "^2.12.1",
     "history": "^4.10.1",
     "react": "^16.12.0",
     "react-app-polyfill": "^1.0.5",
